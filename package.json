@@ -3,6 +3,7 @@
   "displayName": "JSON to TypeScript Interface Converter",
   "description": "A Visual Studio Code extension that converts JSON files into TypeScript interfaces.",
   "version": "0.0.1",
+  "publisher": "JohnPires",
   "engines": {
     "vscode": "^1.92.0"
   },
