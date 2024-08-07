@@ -29,6 +29,22 @@
     "lint": "eslint src --ext ts",
     "test": "vscode-test"
   },
+  "bugs": {
+  "url": "https://github.com/johnpires/json-to-typescript-interface-converter/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnpires/json-to-typescript-interface-converter"
+  },
+  "keywords": [
+    "VS Code",
+    "extension",
+    "JSON",
+    "TypeScript",
+    "interface"
+  ],
+  "author": "John Pires",
+  "license": "MIT",
   "devDependencies": {
     "@types/vscode": "^1.92.0",
     "@types/mocha": "^10.0.7",
