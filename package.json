@@ -4,6 +4,7 @@
   "description": "A Visual Studio Code extension that converts JSON files into TypeScript interfaces.",
   "version": "0.0.1",
   "publisher": "JohnPires",
+  "icon": "images/logo.png",
   "engines": {
     "vscode": "^1.92.0"
   },
